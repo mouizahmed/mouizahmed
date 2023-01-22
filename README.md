@@ -23,6 +23,7 @@ const aboutMe = {
         linkedin: 'https://www.linkedin.com/in/mouizahmed',
         github: 'https://www.github.com/mouizahmed',
         email: 'mouiza@my.yorku.ca',
+        portfolio: 'mouizahmed.com'
     }
     
 }
