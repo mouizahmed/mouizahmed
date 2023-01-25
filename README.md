@@ -17,7 +17,7 @@ const aboutMe = {
         ],
         education: 'B.Eng Software Engineering Co-Op, York University, 2020 - Present'
     },
-    workingOn: '',
+    workingOn: 'DFS Algorithm Visualizer',
     learning: 'Jupyter Notbook (Data science & machine learning)',
     socials: {
         linkedin: 'https://www.linkedin.com/in/mouizahmed',
