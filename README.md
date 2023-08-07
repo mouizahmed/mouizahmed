@@ -16,7 +16,17 @@ const aboutMe = {
         ],
         education: 'B.Eng Software Engineering Co-Op, York University, 2020 - Present'
     },
-    projects: [
+    socials: {
+        linkedin: 'https://www.linkedin.com/in/mouizahmed',
+        instagram: 'https://www.instagram.com/_mouiz/',
+        github: 'https://www.github.com/mouizahmed',
+        email: 'mouiza@my.yorku.ca',
+        portfolio: 'mouizahmed.com'
+    }
+    
+}
+
+const projects = projects: [
         catchgpt: {
             stack: ['Python', 'Flask', 'Hugging Face API', 'PyTorch', 'NumPy', 'HTML/CSS', 'jQuery'],
             description: 'A web tool that allows educators to determine if a piece of text was AI generated with 90% accuracy. Calculates the perplexity per sentence, and burstiness via Hugging Face’s pre-trained GPT2 model. Based on these parameters, it determines if the text was, partially, or entirely AI generated. Provides text metrics and graphs for a holistic approach to plagiarism detection.';
@@ -35,12 +45,3 @@ question generation. Utilizes CircleCI to automate its build, test, and deployme
             description: 'Users can create an account to view and delete their posted reviews, via JSON Web Token Authentication. Each review is categorized by its school, faculty, course and professor stored within a MySQL database. Designed a MySQL Schema and EER Diagram based on the application’s requirements.'
         }
     ]
-    socials: {
-        linkedin: 'https://www.linkedin.com/in/mouizahmed',
-        instagram: 'https://www.instagram.com/_mouiz/',
-        github: 'https://www.github.com/mouizahmed',
-        email: 'mouiza@my.yorku.ca',
-        portfolio: 'mouizahmed.com'
-    }
-    
-}
