@@ -33,8 +33,7 @@ const projects = [
         },
         flashstudy: {
             stack: ['Java', 'Maven', 'JDBC', 'MySQL', 'OpenAI API', 'CircleCI'],
-            description: 'Collaborated with a team to create study system to help users learn and retain information efficiently. Integrates AI using OpenAI’s gpt-3.5-turbo model for definition autocompletion, fact check, and quiz
-question generation. Utilizes CircleCI to automate its build, test, and deployment processes (CI/CD). Followed Agile throughout its development lifecycle which led to an improved workflow and delivery. Extensive JUnit testing and documentation that follow best practices and industry standards.'
+            description: 'Collaborated with a team to create study system to help users learn and retain information efficiently. Integrates AI using OpenAI’s gpt-3.5-turbo model for definition autocompletion, fact check, and quiz question generation. Utilizes CircleCI to automate its build, test, and deployment processes (CI/CD). Followed Agile throughout its development lifecycle which led to an improved workflow and delivery. Extensive JUnit testing and documentation that follow best practices and industry standards.'
         },
         course-reviews: {
             stack: ['HTML/CSS', 'NodeJS', 'ExpressJS', 'ReactJS', 'MySQL'],
