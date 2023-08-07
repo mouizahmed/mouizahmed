@@ -26,7 +26,7 @@ const aboutMe = {
     
 }
 
-const projects = projects: [
+const projects = [
         catchgpt: {
             stack: ['Python', 'Flask', 'Hugging Face API', 'PyTorch', 'NumPy', 'HTML/CSS', 'jQuery'],
             description: 'A web tool that allows educators to determine if a piece of text was AI generated with 90% accuracy. Calculates the perplexity per sentence, and burstiness via Hugging Face’s pre-trained GPT2 model. Based on these parameters, it determines if the text was, partially, or entirely AI generated. Provides text metrics and graphs for a holistic approach to plagiarism detection.';
