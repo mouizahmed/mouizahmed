@@ -45,10 +45,10 @@ const projects = [
         },
         useinsights: {
             stack: ['NextJS', 'HTML/CSS', 'Supabase', 'Langchain'],
-            description: "data analytics made simple -- work in progress"
+            description: "Data analytics made simple -- work in progress"
         },
         fitshare: {
             stack: ['Flutter', 'Firebase'],
-            description: "social media gym app for friends encouraging accountability -- work in progress"
+            description: "Social media gym app for friends encouraging accountability -- work in progress"
         }
     ]
