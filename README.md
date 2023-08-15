@@ -42,5 +42,13 @@ const projects = [
         ponderful: {
             stack: ['HTML/CSS', 'NodeJS', 'ExpressJS', 'ReactJS', 'MongoDB'],
             description: 'Users can create an account to view and delete their posted reviews, via JSON Web Token Authentication. Each review is categorized by its school, faculty, course and professor stored within a MySQL database. Designed a MySQL Schema and EER Diagram based on the application’s requirements.'
+        },
+        useinsights: {
+            stack: ['NextJS', 'HTML/CSS', 'Supabase', 'Langchain'],
+            description: "data analytics made simple -- work in progress"
+        },
+        fitshare: {
+            stack: ['Flutter', 'Firebase'],
+            description: "social media gym app for friends encouraging accountability -- work in progress"
         }
     ]
