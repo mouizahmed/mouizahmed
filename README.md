@@ -10,7 +10,7 @@ const aboutMe = {
     frameworks: ['Git', 'React', 'NextJS', 'NodeJS', 'ExpressJS', 'React Native', 'Dart/Flutter', 'Swift', 'MongoDB', 'Firebase', 'AWS', 'Bash/zsh', 'Agile'],
     design: ['Figma', 'Photoshop', 'Illustrator'],
     experience: {
-        currently: 'Software Developer Intern @ Chatbase',
+        currently: '5G Software Developer Co-op @ Ericsson',
         past: [
             'Academic Peer Support Assistant, Lassonde School of Engineering, September 2021 - December 2021'
         ],
