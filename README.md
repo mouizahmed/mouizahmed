@@ -5,7 +5,7 @@
 tldr;
 - final year
 - prev @ [Ericsson](https://www.ericsson.com/), [Chatbase](https://www.chatbase.co/)
-- cs @ [YorkU - Lassonde School of Engineering](https://lassonde.yorku.ca/)
+- software engineering @ [YorkU - Lassonde School of Engineering](https://lassonde.yorku.ca/)
 - recently:
     - created and shipped [Rate That Class](https://ratethatclass.com)
 
