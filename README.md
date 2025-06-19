@@ -7,7 +7,7 @@ tldr;
 - prev @ [Ericsson](https://www.ericsson.com/), [Chatbase](https://www.chatbase.co/)
 - software engineering @ [YorkU - Lassonde School of Engineering](https://lassonde.yorku.ca/)
 - recently:
-    - created and shipped [RateThatClass.com](https://ratethatclass.com)
+    - created and shipped [RateThatClass.com](https://ratethatclass.com) to 100+ users
 
 currently exploring ai agents, mobile apps, and shipping things fast
 
