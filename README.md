@@ -11,4 +11,4 @@ tldr;
 
 currently exploring ai agents, mobile apps, and shipping things fast
 
-links: [Personal Website](https://mouizahmed.com/) - [Instagram](https://instagram.com/mza.vii) - [LinkedIn](https://linkedin.com/in/mouizahmed)
+links: [personal website](https://mouizahmed.com/) - [instagram](https://instagram.com/mza.vii) - [linkedIn](https://linkedin.com/in/mouizahmed)
