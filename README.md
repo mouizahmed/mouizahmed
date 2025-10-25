@@ -8,7 +8,7 @@ tldr;
 - software engineering @ [YorkU - Lassonde School of Engineering](https://lassonde.yorku.ca/)
 - recently:
     - created and shipped [RateThatClass.com](https://ratethatclass.com) to 100+ users
-
+    - developed a [highly efficient image compressor using quad-tree + prefix sums](https://github.com/mouizahmed/img-compressor)
 currently exploring ai agents, mobile apps, and shipping things fast
 
 links: [personal website](https://mouizahmed.com/) - [instagram](https://instagram.com/mza.vii) - [linkedIn](https://linkedin.com/in/mouizahmed)
