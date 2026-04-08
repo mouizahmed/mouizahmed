@@ -10,6 +10,6 @@ tldr;
     - created and shipped [RateThatClass.com](https://ratethatclass.com) to 100+ users
     - developed a [highly efficient image compressor using quad-tree + prefix sums](https://github.com/mouizahmed/img-compressor) in rust
 
-currently exploring ai agents, mobile apps, and shipping things fast
+currently exploring ai agents, embedded systems, and distributed systems
 
 links: [personal website](https://mouizahmed.com/) - [instagram](https://instagram.com/mza.vii) - [linkedIn](https://linkedin.com/in/mouizahmed)
