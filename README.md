@@ -6,9 +6,6 @@ tldr;
 - final year
 - prev @ [Ericsson](https://www.ericsson.com/), [Chatbase](https://www.chatbase.co/)
 - software engineering @ [YorkU - Lassonde School of Engineering](https://lassonde.yorku.ca/)
-- recently:
-    - created and shipped [RateThatClass.com](https://ratethatclass.com) to 100+ users
-    - developed a [highly efficient image compressor using quad-tree + prefix sums](https://github.com/mouizahmed/img-compressor) in rust
 
 currently exploring ai agents, embedded systems, and distributed systems
 
