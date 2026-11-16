@@ -8,8 +8,6 @@ tldr;
 
 currently exploring ai agents, embedded systems, and distributed systems
 
+check out [hutch](https://usehutch.dev) and [workframe](https://getworkframe.com)
+
 links: [personal website](https://mouizahmed.com/) - [instagram](https://instagram.com/mza.vii) - [linkedIn](https://linkedin.com/in/mouizahmed)
-
-## featured projects
-
-<a href="https://github.com/mouizahmed/hutch"><img src="https://raw.githubusercontent.com/mouizahmed/hutch/main/docs/assets/hutch-header.svg" alt="Hutch: every coding agent gets its own computer." width="60%"></a>
