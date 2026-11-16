@@ -12,4 +12,4 @@ links: [personal website](https://mouizahmed.com/) - [instagram](https://instagr
 
 ## featured projects
 
-<a href="https://github.com/mouizahmed/hutch"><img src="https://raw.githubusercontent.com/mouizahmed/hutch/main/docs/assets/hutch-header.svg" alt="Hutch: every coding agent gets its own computer." width="100%"></a>
+<a href="https://github.com/mouizahmed/hutch"><img src="https://raw.githubusercontent.com/mouizahmed/hutch/main/docs/assets/hutch-header.svg" alt="Hutch: every coding agent gets its own computer." width="60%"></a>
