@@ -8,8 +8,8 @@ tldr;
 
 currently exploring ai agents, embedded systems, and distributed systems
 
-check out:
-- [hutch](https://usehutch.dev) - self hosted, isolated, persistent environments for AI coding agents
-- [workframe](https://getworkframe.com) - truthful ai resume tailoring and job-alignment scoring
+check out:\
+• [hutch](https://usehutch.dev) - self hosted, isolated, persistent environments for AI coding agents\
+• [workframe](https://getworkframe.com) - truthful ai resume tailoring and job-alignment scoring
 
 links: [personal website](https://mouizahmed.com/) - [instagram](https://instagram.com/mza.vii) - [linkedIn](https://linkedin.com/in/mouizahmed)
